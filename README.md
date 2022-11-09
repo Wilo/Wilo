@@ -6,16 +6,19 @@ Backend Developer
 
 I am a software engineer who loves Open Source Technologies, cloud computing, scrum and more. Therefore he is focused on continuous improvement; additionally, I am interested in problem-solving using Python and Go technologies and am an Open Source contributor.
 
-*   🌍  I'm based in Ecuador 🇪🇨
-*   🖥️  See my portfolio at [William Méndez Website (coming soon)](http://localhost:80000)
-*   ✉️  You can contact me at [wmendez.dev@gmail.com](mailto:wmendez.dev@gmail.com)
-*   🚀  I'm currently working on [Avalith](http://www.avalith.net/)
-*   🧠  I'm learning Cloud Computing, Microservices and Distributed Systems.
-*   🤝  I'm open to collaborating on Free and Open Source Projects 🐧⚒️
-*   ⚡  I can speak Esperanto 🤫<a href="https://www.twitter.com/MrWMENDEZ" target="_blank" rel="noreferrer"><img
+*   🌍  I'm based in Ecuador 🇪🇨
+*   🖥️  See my portfolio at [William Méndez Website (coming soon)](http://localhost:80000)
+*   ✉️  You can contact me at [wmendez.dev@gmail.com](mailto:wmendez.dev@gmail.com)
+*   🚀  I'm currently working on [Avalith](https://www.avalith.net/)
+*   🧠  I'm learning Cloud Computing, Microservices and Distributed Systems.
+*   🤝  I'm open to collaborating on Free and Open Source Projects 🐧⚒️
+*   ⚡  I can speak Esperanto 🤫
+<a href="https://www.twitter.com/MrWMENDEZ" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/MrWMENDEZ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/Wilo" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Wilo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/Wilo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -34,22 +37,22 @@ I am a software engineer who loves Open Source Technologies, cloud computing, sc
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/wilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Wilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/wmendezc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/MrWMENDEZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Wilo"><img src="https://github-readme-stats.vercel.app/api?username=Wilo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wilo's GitHub stats" /></a><a
-                      href="http://www.github.com/Wilo"><img src="https://activity-graph.herokuapp.com/graph?username=Wilo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Wilo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## My Badges 🏅
+### Socials
+                  
+<p align="left"> <a href="https://www.dev.to/wilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Wilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wmendezc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MrWMENDEZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Wilo"><img src="https://github-readme-stats.vercel.app/api?username=Wilo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wilo's GitHub stats" /></a>
+
+<a href="http://www.github.com/Wilo"><img src="https://activity-graph.herokuapp.com/graph?username=Wilo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Wilo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 [![@wilo's Holopin board](https://holopin.me/wilo)](https://holopin.io/@wilo)
 
 <!---
