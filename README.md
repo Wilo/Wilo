@@ -8,7 +8,6 @@ I am a software engineer who loves Open Source Technologies, cloud computing, sc
 
 *   🌍  I'm based in Ecuador 🇪🇨
 *   🖥️  See my portfolio at [William Méndez Website (coming soon)](https://williammendez.dev/)
-*   ✉️  You can contact me at [wmendez.dev@gmail.com](mailto:wmendez.dev@gmail.com)
 *   🚀  I'm currently working on [Avalith](https://www.avalith.net/)
 *   🧠  I'm learning Cloud Computing, Microservices and Distributed Systems.
 *   🤝  I'm open to collaborating on Free and Open Source Projects 🐧⚒️
